@@ -75,7 +75,8 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 Recovered Deleted File List and Details
 
 # Delete the Image on the Drive E **
-<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/1a2e86d3-2dad-49e5-bf7d-475bd6f22f7a" />
+
+![28e3a9c7-bc11-48d8-9b20-8ba790ef1644](https://github.com/user-attachments/assets/2eaaf30f-09fd-437e-ae1e-1d18fe9f3d00)
 
 # Click Extract File on the Autopsy To recover the Deleted File on the Drive E 
 
@@ -83,7 +84,7 @@ Recovered Deleted File List and Details
 
 # The Deleted Picture Is Successfully Recoverd On the Export Folder 
 
-<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/3e5f64b3-86d7-4713-a886-bca1b4876c9d" />
+![07ccebc3-b45e-476b-a017-2b6b96696240](https://github.com/user-attachments/assets/1556c0f9-7c55-40af-9f42-6745759452c4)
 
 
 ## RESULT:
